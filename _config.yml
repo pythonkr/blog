@@ -17,7 +17,7 @@ title: PyCon KR blog
 email: pyconkr@pycon.kr
 description: > # this means to ignore newlines until "baseurl:"
   파이콘 한국의 블로그 입니다.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog-jekyll" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: pyconkr
 github_username:  pythonkr
