@@ -102,3 +102,4 @@ title : "2016년 12월 파이썬 격월 세미나 & 송년회 후기!"
 * [웹 개발, 왜 어려운가?](http://www.slideshare.net/perhapsspy/ss-70211786) - 정경업님  
 * [오픈소스의 네이밍 특징들](http://www.slideshare.net/ssuser2fe594/python-70220360) - 최규민님  
 * [파이썬을 만난지 100일♥ 째](http://www.slideshare.net/ssuser971274/100-70226396) - 최혜선님  
+* [Django 매뉴얼 번역과 커뮤니티](http://www.slideshare.net/WoojingSeok/django-70538841) - 석우징님  
