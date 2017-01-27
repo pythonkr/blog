@@ -45,15 +45,15 @@ div.page {
 }
 
 
-.post-title, .post-content > a {
-  color: black;
-}
-
-
 .site-title {
   text-decoration: none;
   color: #504e49;
 }
+
+a:hover.site-title {
+  color: #504e49;
+}
+
 
 
 
