@@ -22,7 +22,8 @@ author : "김연태"
 <br/>
 
 
-![설득](https://cloud.githubusercontent.com/assets/16676348/23578292/f84b1678-0116-11e7-82e3-7bf1170d678f.jpg)  
+![설득](https://cloud.githubusercontent.com/assets/16676348/23578292/f84b1678-0116-11e7-82e3-7bf1170d678f.jpg)
+
 <출처 : 나무위키>
 
 <br/><br/>
@@ -31,8 +32,7 @@ author : "김연태"
 
 먼저 파이콘 미국의 데이터를 한번 봅시다.  
 
-<br/><br/>
-![us](https://cloud.githubusercontent.com/assets/16676348/23578314/7fbeb63c-0117-11e7-9145-75586aae2556.png)  
+![us](https://cloud.githubusercontent.com/assets/16676348/23578314/7fbeb63c-0117-11e7-9145-75586aae2556.png)
 
 <트렌드에 민감해 보이지 않는 파이콘 미국>
 
@@ -61,8 +61,8 @@ author : "김연태"
 
 그래서, 서로 비슷한 주제를 미국의 상위 6개 세션을 기준으로 재분류 했습니다.  
 
-<br/>
-![japan](https://cloud.githubusercontent.com/assets/16676348/23578325/afb84808-0117-11e7-984e-6d440bd4e7a8.png)  
+
+![japan](https://cloud.githubusercontent.com/assets/16676348/23578325/afb84808-0117-11e7-984e-6d440bd4e7a8.png)
 
 <일본도 한국 못지 않은 데이터 과학 열풍>
 
