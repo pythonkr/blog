@@ -30,8 +30,10 @@ author : "김연태"
 다행히도 공식 사이트에 발표 주제별 난이도와 카테고리가 비교적 잘 정리되어 있었습니다.  
 
 먼저 파이콘 미국의 데이터를 한번 봅시다.  
+
 <br/><br/>
 ![us](https://cloud.githubusercontent.com/assets/16676348/23578314/7fbeb63c-0117-11e7-9145-75586aae2556.png)  
+
 <트렌드에 민감해 보이지 않는 파이콘 미국>
 
 <br/><br/>
@@ -50,7 +52,7 @@ author : "김연태"
 
 중급자 세션의 비중은 46% 정도 되며 다양한 주제별로 들을 만한 세션을 배치 했다는 인상을 받았습니다.  
 
-상급자 세션은 주로 'Python Core' 와 'Python Libraries' 에 집중되어 있습니다.
+상급자 세션은 주로 'Python Core' 와 'Python Libraries' 에 집중되어 있습니다.  
 
 <br/><br/>
 이제 일본으로 가보겠습니다.  
@@ -59,7 +61,9 @@ author : "김연태"
 
 그래서, 서로 비슷한 주제를 미국의 상위 6개 세션을 기준으로 재분류 했습니다.  
 
+<br/>
 ![japan](https://cloud.githubusercontent.com/assets/16676348/23578325/afb84808-0117-11e7-984e-6d440bd4e7a8.png)  
+
 <일본도 한국 못지 않은 데이터 과학 열풍>
 
 <br/>
@@ -72,7 +76,6 @@ author : "김연태"
 <br/>
 두 나라의 데이터를 참고해, 2017 파이콘 코리아의 주제인 'Back to the basic' 에 어울리는 카테고리를 다음과 같이 정리해 봅니다.  
 
-<br/>
 1. Best Practices & Patterns  
 2. Python Core (language, stdlib, etc.)  
 3. Python Libraries  
