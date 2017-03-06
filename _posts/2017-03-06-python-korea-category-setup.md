@@ -23,7 +23,7 @@ author : "김연태"
 
 ![설득]({{ site.url }}{{ site.baseurl }}/assets/2017/2017-03-06-otaku.png)  
 
-<출처 : 나무위키>  
+출처 : 나무위키
 
 <br/>
 
