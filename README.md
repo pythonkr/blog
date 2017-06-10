@@ -23,11 +23,12 @@ Python Korea 블로그입니다.
 > Markdown 형식으로의 작성이 필수적입니다. (참고 : https://guides.github.com/features/mastering-markdown/)  
 
 - repository 내 `_posts/` 폴더에 `yyyy-mm-dd-slug.md`형식의 파일명으로 저장. (ex. `2017-05-10-using-python.md`)  
-- 글의 첫 머리에 yaml 형식의 아래 내용 포함.  
+- YAML Front Matter 작성. (글의 첫 머리에 yaml 형식의 아래 내용 포함)   
 
 ```
 ---
 layout : post
+comments : true
 title : <글제목>
 author : <작성자>
 ---
