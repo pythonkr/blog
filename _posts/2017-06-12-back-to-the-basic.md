@@ -1,7 +1,6 @@
 ---
 layout : post
 title : "PyCon Korea 2017 - Back to the Basic"
-author : "김현도"
 ---
 
 
