@@ -51,4 +51,4 @@ date : 2017-06-18
 준비위원회 멤버들이 파이콘 한국 2017을 열심히 준비하고 있습니다. 많은 관심과 응원 부탁드립니다.  
 더불어 올해 파이콘 한국 2017 후원을 통해 파이썬 커뮤니티의 성장을 지원하고, 파이콘 한국 2017의 공식 스폰서로서의 특별한 가치를 갖는 데 관심이 있는 후원사를 모시고 있습니다. 파이콘 후원에도 많은 관심 부탁드립니다.  
 - 후원 문의 : <sponsor@pycon.kr>  
-- 후원사를 위한 안내서 : <https://drive.google.com/file/d/0B7fFqatRuKktZ0tTQzl6OHpCZXc/view?usp=sharing>  
+- 후원사를 위한 안내서 : <https://drive.google.com/file/d/0B04jSuA8eIqqcE5OYldFRU9PN0k>  
