@@ -5,7 +5,7 @@ author: "김소연"
 ---
 
 
-![PyCon APAC 2016 participants](assets/2017/pyconapac2016participants.jpg)
+![PyCon APAC 2016 participants](/assets/2017/pyconapac2016participants.jpg)
 
 
 안녕하세요.  
