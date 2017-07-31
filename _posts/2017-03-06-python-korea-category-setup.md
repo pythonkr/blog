@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "2017 파이썬 코리아, 발표주제를 정해보자."
+title : "PyCon Korea 2017, 발표주제를 정해보자."
 author : "김연태"
 ---
 
