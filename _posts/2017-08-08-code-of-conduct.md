@@ -74,7 +74,7 @@ bloodevil@pycon.kr
 
 ### 차별 및 희롱 대응 절차  
 - [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Attendee%20Procedure%20for%20incident%20handling.md)  
-- [스태프를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Staff%20Procedure%20for%20incident%20handling.md)  
+- [스태프를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Staff%20Procedure%20for%20incident%20handling.md)  
 
 ### 라이센스  
 이 성명서는 Ada Initiative와 다른 자원봉사자들에 의해 작성된 Geek Feminism wiki의 정책 예시를 기본으로 하여 작성되었습니다. 원문은 Creative Commons Zero 라이센스를 따르고 있습니다.  
