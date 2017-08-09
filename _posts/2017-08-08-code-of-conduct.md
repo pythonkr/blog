@@ -70,8 +70,8 @@ bloodevil@pycon.kr
 
 차별 및 희롱 대응 절차  
 ------------------------------------------  
-- [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Attendee Procedure for incident handling.md)  
-- [스태프를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Staff Procedure for incident handling.md)  
+- [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Attendee%20Procedure%20for%20incident%20handling.md)  
+- [스태프를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Staff%20Procedure%20for%20incident%20handling.md)  
 
 라이센스  
 -------  
