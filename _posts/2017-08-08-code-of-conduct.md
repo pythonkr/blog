@@ -24,9 +24,10 @@ CoC에서 중요하게 생각하는 핵심 가치는 '열린(Open), 사려깊은
 
 
 
-## 파이콘 한국의 Code of Conduct
+## 파이콘 한국의 Code of Conduct  
 
-아래는 파이콘 한국의 Code of Conduct입니다. 
+
+아래는 파이콘 한국의 Code of Conduct입니다.  
 
 모두에게 즐거운 파이콘 한국 2017을 위해 모두 읽어주세요. :)  
 
