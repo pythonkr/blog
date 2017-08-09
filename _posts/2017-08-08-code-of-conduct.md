@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Code of Conduct(행동강령)에 대해 알아봅시다."
+author: "김소연"
+---
+
 안녕하세요.  
 
 파이썬 커뮤니티는 모두 Code of Conduct(행동강령, 이하 CoC)를 준수해야 합니다. 커뮤니티 정신의 바탕에 CoC를 두고 있는 것인데요.  
