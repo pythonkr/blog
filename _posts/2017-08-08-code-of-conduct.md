@@ -1,4 +1,5 @@
 안녕하세요.  
+
 파이썬 커뮤니티는 모두 Code of Conduct(행동강령, 이하 CoC)를 준수해야 합니다. 커뮤니티 정신의 바탕에 CoC를 두고 있는 것인데요.  
 하지만 이 CoC에 대해 잘 모르시는 분들이 더 많기도 합니다.  
 파이콘 한국 2017을 즐기기 이전에 CoC에 대해서 먼저 알아봅시다.  
@@ -22,7 +23,10 @@ CoC에서 중요하게 생각하는 핵심 가치는 '열린(Open), 사려깊은
 우리는 해야하기 때문이 아니라 자발적인 마음으로 커뮤니티에 기여하고 있습니다. 이 점을 기억하여 가이드라인을 자연스럽게 받아들여 주세요.  
 
 
-아래는 파이콘 한국의 Code of Conduct입니다.  
+
+## 파이콘 한국의 Code of Conduct
+
+아래는 파이콘 한국의 Code of Conduct입니다. 
 
 모두에게 즐거운 파이콘 한국 2017을 위해 모두 읽어주세요. :)  
 
@@ -68,13 +72,11 @@ bloodevil@pycon.kr
 
 차별없이 서로 존중하는 즐거운 행사를 만들어 나가게 될 모든 분들께 감사의 마음을 전합니다.  
 
-차별 및 희롱 대응 절차  
-------------------------------------------  
+### 차별 및 희롱 대응 절차  
 - [참가자를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/blob/korean/Attendee%20Procedure%20for%20incident%20handling.md)  
 - [스태프를 위한 사건 대응 절차](https://github.com/pythonkr/pycon-code-of-conduct/Staff%20Procedure%20for%20incident%20handling.md)  
 
-라이센스  
--------  
+### 라이센스  
 이 성명서는 Ada Initiative와 다른 자원봉사자들에 의해 작성된 Geek Feminism wiki의 정책 예시를 기본으로 하여 작성되었습니다. 원문은 Creative Commons Zero 라이센스를 따르고 있습니다.  
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
