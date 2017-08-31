@@ -1,7 +1,7 @@
 ---
 layout : post
-title : 파이콘 한국 2017 행동강령(Code Of Conduct) 위반건과 조치 결과
-author : 파이콘 한국 준비위원회
+title : "파이콘 한국 2017 행동강령(Code Of Conduct) 위반건과 조치 결과"
+author : "파이콘 한국 준비위원회"
 ---
 
 [ 파이콘 한국 2017 행동강령(CoC) 위반건과 조치 결과에 대해 알려드립니다. ]
