@@ -13,4 +13,4 @@ layout: post
 
 강대명 - [파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://drive.google.com/file/d/0B04jSuA8eIqqN3JrRkNtX09kYzg/view?usp=sharing)  
 
-김영근 - [pandas contribution 하기](https://drive.google.com/file/d/0B04jSuA8eIqqeVZOSnBKTmlMOU0/view?usp=sharing)  
+김영근 - [pandas contribution 하기](https://drive.google.com/file/d/0B04jSuA8eIqqajdLdk5OMnhpWXM/view?usp=sharing)  
