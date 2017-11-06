@@ -3,7 +3,7 @@ title : "2017년 10월 파이썬 세미나 - Python & Data"
 layout: post
 ---
 
-세미나의 발표 자료를 공유합니다.  
+## 2017년 10월 파이썬 세미나 "Python & Data"의 발표 자료를 공유합니다.  
 
 이왕원 - 데이터 시각화를 통한 파이썬 입문기 [슬라이드](https://drive.google.com/file/d/0B04jSuA8eIqqOXN1TldMTnpWd25DV0NpdGdiampJTUxvbjNV/view?usp=sharing)  
 
