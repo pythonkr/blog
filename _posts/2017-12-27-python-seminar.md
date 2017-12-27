@@ -30,4 +30,4 @@ layout : post
 
 박민우 -  
 
-![poster]({{ site.url }}{{ site.baseurl }}/assets/2017/2017-12-seminar-poster.jpg)
+![poster](/assets/2017/2017-12-seminar-poster.jpg)
