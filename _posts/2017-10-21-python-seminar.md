@@ -20,3 +20,7 @@ layout: post
 김영근 - pandas contribution 하기
 [슬라이드](https://drive.google.com/file/d/0B04jSuA8eIqqajdLdk5OMnhpWXM/view?usp=sharing)
 [세션동영상](https://youtu.be/8n21UzCZMX8)  
+
+
+### 후기  
+Londev : http://londev.tistory.com/m/9  
