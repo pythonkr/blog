@@ -47,4 +47,6 @@ layout : post
 [슬라이드](https://www.slideshare.net/nexusz99/2017-pycon-apac-2017-85260907)
 [발표영상](https://www.youtube.com/watch?v=JsCViaV6-uM)
 
+![group-photo](/assets/2017/2017_12_seminar_pic.jpg)
+
 ![poster](/assets/2017/2017-12-seminar-poster.jpg)
