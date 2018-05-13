@@ -9,7 +9,8 @@ permalink: /about/
 
 ## Contact  
 ### Official Webpage  
-파이콘 한국 2017 공식 홈페이지 : <https://www.pycon.kr/2017>   
+파이콘 한국 2018 티저 홈페이지 : <https://www.pycon.kr/2018>   
+파이콘 한국 2017 공식 홈페이지 : <https://www.pycon.kr/2017>
 ### Social 
 페이스북 : <https://www.facebook.com/pyconkorea>   
 트위터 : <https://twitter.com/pyconkr>  
