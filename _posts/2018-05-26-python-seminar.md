@@ -18,3 +18,4 @@ django-channels 1.x를 사용하여 구현된 웹소켓 서버를 2.x으로 마�
 
 ### 김슬 - 웹 디버깅 할 때 유용하게 쓸 수 있는 도구들  
 django_extensions debugger, django debug toolbar, ngork 등 디버깅 시 유용하게 쓸 수 있는 도구들을 간단한 시연과 함께 설명합니다.  
+[발표자료](https://drive.google.com/file/d/1QbcemUqsf4nBrv0CVsOQt-vrzfJFTuEK/view?usp=sharing)
