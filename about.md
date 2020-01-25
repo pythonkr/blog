@@ -8,15 +8,20 @@ permalink: /about/
 
 
 ## Contact  
-### Official Webpage  
-파이콘 한국 2018 티저 홈페이지 : <https://www.pycon.kr/2018>   
+### Official Webpage
+
+파이콘 한국 2019 공식 홈페이지 : <https://www.pycon.kr/2019>  
+파이콘 한국 2018 공식 홈페이지 : <https://www.pycon.kr/2018>   
 파이콘 한국 2017 공식 홈페이지 : <https://www.pycon.kr/2017>
-### Social 
-페이스북 : <https://www.facebook.com/pyconkorea>   
+
+### Social
+
+페이스북 : <https://www.facebook.com/pyconkorea>   
 트위터 : <https://twitter.com/pyconkr>  
+
 ### Mail
+
 대표 이메일 : <pyconkr@pycon.kr>  
 후원 문의 : <sponsor@pycon.kr>  
 프로그램(세션/튜토리얼/스프린트) 문의 : <program@pycon.kr>  
 미디어(홈페이지) 문의 : <media@pycon.kr>  
-기타 문의 : <support@pycon.kr>  
