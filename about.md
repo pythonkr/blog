@@ -11,20 +11,20 @@ permalink: /about/
 
 ### Official Webpage
 
-파이콘 한국 2023 공식 홈페이지 : <https://2023.pycon.kr/>
-파이콘 한국 2022 공식 홈페이지 : <https://2022.pycon.kr/>
-파이콘 한국 2021 공식 홈페이지 : <https://2021.pycon.kr/>
+파이콘 한국 2023 공식 홈페이지 : <https://2023.pycon.kr/>  
+파이콘 한국 2022 공식 홈페이지 : <https://2022.pycon.kr/>  
+파이콘 한국 2021 공식 홈페이지 : <https://2021.pycon.kr/>  
 파이콘 한국 2020 공식 홈페이지 : <https://www.pycon.kr/2020>  
 파이콘 한국 2019 공식 홈페이지 : <https://www.pycon.kr/2019>  
-파이콘 한국 2018 공식 홈페이지 : <https://www.pycon.kr/2018>   
-파이콘 한국 2017 공식 홈페이지 : <https://www.pycon.kr/2017>
-파이콘 APAC 2016 공식 홈페이지 : <https://archive.pycon.kr/2016apac/>
-파이콘 한국 2015 공식 홈페이지 : <https://archive.pycon.kr/2015/>
-파이콘 한국 2014 공식 홈페이지 : <https://archive.pycon.kr/2014/>
+파이콘 한국 2018 공식 홈페이지 : <https://www.pycon.kr/2018>  
+파이콘 한국 2017 공식 홈페이지 : <https://www.pycon.kr/2017>  
+파이콘 APAC 2016 공식 홈페이지 : <https://archive.pycon.kr/2016apac/>  
+파이콘 한국 2015 공식 홈페이지 : <https://archive.pycon.kr/2015/>  
+파이콘 한국 2014 공식 홈페이지 : <https://archive.pycon.kr/2014/>  
 
 ### Social
 
-페이스북 : <https://www.facebook.com/pyconkorea>   
+페이스북 : <https://www.facebook.com/pyconkorea>  
 트위터 : <https://twitter.com/pyconkr>  
 
 ### Mail
