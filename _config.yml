@@ -23,6 +23,12 @@ url: "http://blog.pycon.kr" # the base hostname & protocol for your site, e.g. h
 twitter_username: pyconkr
 github_username:  pythonkr
 
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
 # Build settings
 markdown: kramdown
 theme: minima
