@@ -1,0 +1,18 @@
+services:
+  gemfile:
+    working_dir: /srv/jekyll
+    image: ruby:3.0
+    command: ["bundle", "install"]
+    volumes:
+      - .:/srv/jekyll
+  dev:
+    container_name: pyconkr-blog
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "-l"]
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/srv/jekyll
