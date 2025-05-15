@@ -24,6 +24,17 @@
     }
 }
 
+
+.seoul-color {
+  width: 100%;
+}
+
+.seoul-color td {
+  color: transparent;
+  font-size: 0;
+  line-height: 4px;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
@@ -238,5 +249,13 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+}
+
+
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
     }
 }
