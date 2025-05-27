@@ -3,6 +3,22 @@
         border-radius: 4px;
     }
 
+    .img {
+        &-s {
+            display: block;
+            max-width: 300px;
+            height: auto;    
+            margin: 0 auto;
+        }
+
+        &-m {
+            display: block;
+            max-width: 400px;
+            height: auto;    
+            max-width: 520px;
+        }
+    }
+
     .img-caption {
         display: flex;
         align-items: center;
