@@ -3,17 +3,25 @@
         border-radius: 4px;
     }
 
-    .img-s {
-        max-width: 300px;
-    }
+    .img {
+        &-s {
+            display: block;
+            max-width: 300px;
+            height: auto;    
+            margin: 0 auto;
+        }
 
-    .img-m {
-        max-width: 460px;
-    }
+        &-m {
+            display: block;
+            max-width: 400px;
+            height: auto;    
+            max-width: 520px;
+        }
 
-    .img-center {
-        display: block;
-        margin: 0 auto;
+        &-center{
+            display: block;
+            margin: 0 auto;
+        }
     }
 
     .img-caption {
