@@ -3,6 +3,19 @@
         border-radius: 4px;
     }
 
+    .img-s {
+        max-width: 300px;
+    }
+
+    .img-m {
+        max-width: 460px;
+    }
+
+    .img-center {
+        display: block;
+        margin: 0 auto;
+    }
+
     .img-caption {
         display: flex;
         align-items: center;
