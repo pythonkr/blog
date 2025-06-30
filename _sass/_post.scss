@@ -17,6 +17,11 @@
             height: auto;    
             max-width: 520px;
         }
+
+        &-center{
+            display: block;
+            margin: 0 auto;
+        }
     }
 
     .img-caption {
