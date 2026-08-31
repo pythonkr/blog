@@ -6,16 +6,68 @@ layout: default
 
   {{ content }}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  {% assign featured_post = site.posts | first %}
+  {% if featured_post %}
+  <section class="home-featured" aria-labelledby="featured-title">
+    <a class="featured-card" href="{{ featured_post.url | relative_url }}">
+      <div class="featured-copy">
+        <span class="featured-label">Latest story</span>
+        <h1 id="featured-title">{{ featured_post.title | escape }}</h1>
+        <p class="featured-excerpt">{{ featured_post.excerpt | strip_html | normalize_whitespace | truncate: 180 }}</p>
+        <span class="featured-meta">
+          <time datetime="{{ featured_post.date | date_to_xmlschema }}">{{ featured_post.date | date: "%Y년 %-m월 %-d일" }}</time>
+          {% if featured_post.author %}<span aria-hidden="true">·</span><span>{{ featured_post.author }}</span>{% endif %}
+        </span>
+        <span class="featured-action">이야기 읽기 <span aria-hidden="true">→</span></span>
+      </div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <div class="featured-media">
+        {% if featured_post.image %}
+        <img src="{{ featured_post.image | relative_url }}" alt="" fetchpriority="high">
+        {% else %}
+        <span class="post-card-placeholder" aria-hidden="true">PyCon Korea</span>
+        {% endif %}
+      </div>
+    </a>
+  </section>
+  {% endif %}
+
+  {% if site.posts.size > 1 %}
+  <section class="home-archive" aria-labelledby="archive-title">
+    <header class="section-heading">
+      <div>
+        <span class="section-kicker">Community stories</span>
+        <h2 id="archive-title">최근 이야기</h2>
+      </div>
+      <p>파이썬과 사람, 커뮤니티가 함께 만든 기록을 만나보세요.</p>
+    </header>
+
+    <div class="post-grid">
+      {% for post in site.posts offset: 1 %}
+      <article>
+        <a class="post-card" href="{{ post.url | relative_url }}">
+          <div class="post-card-media">
+            {% if post.image %}
+            <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
+            {% else %}
+            <span class="post-card-placeholder" aria-hidden="true">PyCon Korea</span>
+            {% endif %}
+          </div>
+
+          <div class="post-card-body">
+            <span class="post-card-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y. %-m. %-d." }}</time>
+              {% if post.author %}<span aria-hidden="true">·</span><span>{{ post.author }}</span>{% endif %}
+            </span>
+            <h3>{{ post.title | escape }}</h3>
+            <p>{{ post.excerpt | strip_html | normalize_whitespace | truncate: 115 }}</p>
+            <span class="post-card-action">자세히 보기 <span aria-hidden="true">→</span></span>
+          </div>
+        </a>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
 
 </div>

@@ -2,6 +2,7 @@
 layout : post
 title : "PyCon Korea 2017 프로그램은 어떻게 선정되었을까?"
 author : "김연태"
+image : "/assets/2017/2017-07-31-cfp.png"
 ---
 
 Back to the basic 에 맞는 프로그램 선정하기 위해 고민했던 흔적들을 공유하려고 합니다.

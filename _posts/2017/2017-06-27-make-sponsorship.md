@@ -2,6 +2,7 @@
 layout: post
 title : "파이콘 한국 2017을 즐기는 방법: 01 후원사가 되어보자"
 author: "김소연"
+image: "/assets/2017/kimsponsor.jpg"
 ---
 
 

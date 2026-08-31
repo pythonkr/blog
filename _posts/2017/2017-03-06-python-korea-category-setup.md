@@ -2,6 +2,7 @@
 layout : post
 title : "PyCon Korea 2017, 발표주제를 정해보자."
 author : "김연태"
+image : "/assets/2017/2017-03-06-otaku.jpg"
 ---
 
 안녕하세요. 올해부터 파이콘 코리아 준비위원으로 참여하게 된 김연태 입니다.  

@@ -1,16 +1,16 @@
 
 // Our variables
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", Helvetica, Arial, sans-serif;
+$base-font-size:   17px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.65;
 
 $spacing-unit:     30px;
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$text-color:       #172033;
+$background-color: #f7f8fb;
+$brand-color:      #306998;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -19,10 +19,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 $yellow-color:     #f6b93b;
 
 // Width of the content area
-$content-width:    800px;
+$content-width:    1180px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        960px;
 
 // 미디어 쿼리 믹신 추가
 @mixin media-query($device) {

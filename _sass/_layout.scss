@@ -10,6 +10,17 @@
     position: relative;
 }
 
+// Keep the navigation fixed at the top while scrolling.
+.site-header {
+    position: sticky;
+    z-index: 20;
+    top: 0;
+    min-height: 68px;
+    background: #fff;
+    border-top: 0;
+    border-bottom-color: rgba(130, 130, 130, 0.18);
+}
+
 .site-title {
     font-size: 26px;
     font-weight: 300;
@@ -24,16 +35,13 @@
     }
 }
 
-
-.seoul-color {
-  width: 100%;
+.site-title {
+    font-size: 20px;
+    font-weight: 750;
+    line-height: 68px;
+    letter-spacing: -0.025em;
 }
 
-.seoul-color td {
-  color: transparent;
-  font-size: 0;
-  line-height: 4px;
-}
 
 .site-nav {
     float: right;
@@ -100,6 +108,12 @@
             }
             margin-left: 20px;
         }
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .site-nav {
+        line-height: 68px;
     }
 }
 
@@ -182,6 +196,10 @@
     padding: $spacing-unit 0;
 }
 
+.page-content {
+    padding: 54px 0 72px;
+}
+
 .page-heading {
     font-size: 20px;
 }
@@ -222,6 +240,20 @@
     @include media-query($on-laptop) {
         font-size: 36px;
     }
+}
+
+.post {
+    max-width: 760px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.post-title {
+    font-size: clamp(38px, 6vw, 56px);
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -0.045em;
+    word-break: keep-all;
 }
 
 .post-content {

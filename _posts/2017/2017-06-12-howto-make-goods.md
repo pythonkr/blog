@@ -2,6 +2,7 @@
 layout : post
 title : "PyCon Korea 2017 준비하는 이야기 - 티셔츠 제작하기"
 author : "박조은, 신예지"
+image : "/assets/2017/2016_goods.jpg"
 ---
  
 ## 티셔츠는 어떻게 제작될까?
