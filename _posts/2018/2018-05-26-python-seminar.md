@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2018년 5월 파이썬 세미나 - 나의 파이썬 레시피"
+image: "/assets/2018/2018-05-seminar-cover.jpg"
 ---
 
 ![파이썬세미나](/assets/2018/2018-05-seminar-cover.jpg)  

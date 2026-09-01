@@ -3,6 +3,7 @@ layout : post
 title : "2016년 12월 파이썬 격월 세미나 & 송년회 후기!"
 comments : true
 author : "김소연"
+image : "/assets/seminar201612/seminar.png"
 ---
 
 안녕하세요, 파이콘 한국입니다. :)  

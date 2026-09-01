@@ -2,6 +2,7 @@
 layout: post
 title : "PyCon Korea 2017 준비하는 이야기 - 04 힘내요 준비위원회"
 author: "김소연"
+image: "/assets/2017/pyconapac2016participants.jpg"
 ---
 
 

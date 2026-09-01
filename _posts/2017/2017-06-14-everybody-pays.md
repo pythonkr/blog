@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Everybody Pays"
+image: "/assets/2017/ticket.png"
 ---
 
 

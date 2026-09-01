@@ -1,6 +1,7 @@
 ---
 layout : post
 title : "PyCon Korea 2017 - Back to the Basic"
+image : "/assets/2017/facebook_share_image-01.png"
 ---
 
 
