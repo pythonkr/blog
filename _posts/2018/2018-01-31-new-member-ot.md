@@ -2,6 +2,7 @@
 layout: post
 title : "PyCon Korea 2018 준비하는 이야기 - 00 반가워요 신규 준비위원회"
 author: "나영근"
+image: "/assets/2018/2018_01_new_member_ot_1.jpg"
 ---
 
 < 이불 밖은 위험하지만 PyCon 안은 안전할거야 >

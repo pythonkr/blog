@@ -1,6 +1,7 @@
 ---
 title : "파이콘 준비위원회 신규 멤버를 모집합니다"
 layout : post
+image : "/assets/2017/pycon_2017_volunteer.png"
 ---
 
 ![신규멤버모집]({{ site.url }}{{ site.baseurl }}/assets/2017/pycon_2017_volunteer.png)
