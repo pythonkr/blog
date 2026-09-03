@@ -1,38 +1,33 @@
 <footer class="site-footer">
-
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li><a href="https://pycon.kr">{{ site.name }}</a></li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
+    <div class="footer-main">
+      <div class="footer-brand">
+        <a class="footer-logo" href="{{ '/' | prepend: site.baseurl }}">PyCon Korea <span>Blog</span></a>
+        <p>파이썬을 중심으로 사람과 경험을 잇는<br>파이콘 한국 준비위원회의 공식 블로그입니다.</p>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
+      <nav class="footer-nav" aria-label="하단 메뉴">
+        <p class="footer-label">Explore</p>
+        <a href="{{ '/' | prepend: site.baseurl }}">새 글 보기</a>
+        <a href="{{ '/about/' | prepend: site.baseurl }}">About</a>
+        <a href="https://pycon.kr" target="_blank" rel="noopener noreferrer">PyCon Korea ↗</a>
+      </nav>
 
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+      <div class="footer-social">
+        <p class="footer-label">Follow us</p>
+        {% include social-links.html context="footer" %}
       </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
+      <div class="footer-contact">
+        <p class="footer-label">Contact</p>
+        <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        <p>행사와 커뮤니티에 관한 이야기를 기다립니다.</p>
       </div>
     </div>
 
+    <div class="footer-bottom">
+      <p>© {{ site.time | date: '%Y' }} PyCon Korea Organizing Team</p>
+      <p>Python community, powered by volunteers.</p>
+    </div>
   </div>
-
 </footer>

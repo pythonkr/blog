@@ -1,0 +1,11 @@
+<ul class="social-links social-links--{{ include.context | default: 'default' }}">
+  {% for social in site.data.socials %}
+  <li>
+    <a href="{{ social.url }}" target="_blank" rel="noopener noreferrer" aria-label="파이콘 한국 {{ social.name }} (새 창)">
+      <span class="social-links__mark" aria-hidden="true">{{ social.short }}</span>
+      <span class="social-links__name">{{ social.name }}</span>
+      <span class="social-links__arrow" aria-hidden="true">↗</span>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
